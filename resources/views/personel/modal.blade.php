@@ -10,23 +10,53 @@
                 <div class="text-center mb-4">
                     <img id="modalFoto" src="" alt="Foto Personel" class="img-thumbnail rounded-circle" style="width: 150px; height: 150px; object-fit: cover;">
                 </div>
+
                 <div class="row mb-2">
                     <div class="col-md-4 fw-bold">Nama</div>
                     <div class="col-md-8" id="modalNama">-</div>
                 </div>
+
                 <div class="row mb-2">
                     <div class="col-md-4 fw-bold">Pangkat</div>
                     <div class="col-md-8" id="modalPangkat">-</div>
                 </div>
+
                 <div class="row mb-2">
                     <div class="col-md-4 fw-bold">NRP</div>
                     <div class="col-md-8" id="modalNRP">-</div>
                 </div>
+
                 <div class="row mb-2">
                     <div class="col-md-4 fw-bold">Jabatan</div>
                     <div class="col-md-8" id="modalJabatan">-</div>
                 </div>
+
+                <div class="row mb-2">
+                    <div class="col-md-4 fw-bold">Matra</div>
+                    <div class="col-md-8" id="modalMatra">-</div>
+                </div>
+
+                <div class="row mb-2">
+                    <div class="col-md-4 fw-bold">Corps</div>
+                    <div class="col-md-8" id="modalCorps">-</div>
+                </div>
+
+                <div class="row mb-2">
+                    <div class="col-md-4 fw-bold">TMT TNI</div>
+                    <div class="col-md-8" id="modalTmtTni">-</div>
+                </div>
+
+                <div class="row mb-2">
+                    <div class="col-md-4 fw-bold">TMT Jabatan</div>
+                    <div class="col-md-8" id="modalTmtJabatan">-</div>
+                </div>
+
+                <div class="row mb-2">
+                    <div class="col-md-4 fw-bold">Satuan Pelaksana</div>
+                    <div class="col-md-8" id="modalSatuan">-</div>
+                </div>
             </div>
+
             <div class="modal-footer d-flex justify-content-between">
                 <div>
                     <button id="btnEditPersonel" class="btn btn-primary">
